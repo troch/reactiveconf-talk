@@ -7,7 +7,7 @@ Slides: [slides.pdf](./slides.pdf)
 
 ### Demo
 
-The demo has been generated with `react-create-app`. Go to the demo directory, install dependencies, run `npm start`. If you are new to router5, it is a good starting point / playground.
+The demo has been generated with `react-create-app`. Go to the demo directory, install dependencies (`yarn` or `npm install`), and start the application (`yarn start` or `npm start`). If you are new to router5, it is a good starting point / playground.
 
 
 ### Links
